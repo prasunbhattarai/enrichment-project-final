@@ -79,9 +79,4 @@ The model was trained for **5 epochs**.
 
 ---
 
-## 💻 Installation & Usage
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/real-vs-synthetic-faces.git
-cd real-vs-synthetic-faces
