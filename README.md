@@ -60,7 +60,7 @@ The model was trained for **5 epochs**.
 
 **Training Loss vs Epoch** (left) and **Validation Accuracy vs Epoch** (right):  
 
-![Training Curves](plot.png)
+![Training Curves](plots.png)
 
 ---
 
