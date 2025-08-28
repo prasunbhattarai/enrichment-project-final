@@ -42,13 +42,14 @@ The model was trained for **5 epochs**.
 
 ## 📊 Results
 
-| Epoch | Training Loss | Validation Accuracy |
-|-------|---------------|----------------------|
-| 1     | 0.1717        | 98.80%              |
-| 2     | 0.0349        | 99.60%              |
-| 3     | 0.0231        | 98.30%              |
-| 4     | 0.0184        | 99.40%              |
-| 5     | 0.0165        | 99.20%              |
+| **Epoch** | **Total Loss** | **Average Loss** | **Validation Accuracy** |
+|-----------|----------------|------------------|--------------------------|
+| 1         | 48.4226        | 0.1717           | 98.80%                  |
+| 2         | 9.8431         | 0.0349           | 99.60%                  |
+| 3         | 6.5371         | 0.0231           | 98.30%                  |
+| 4         | 5.1938         | 0.0184           | 99.40%                  |
+| 5         | 4.6693         | 0.0166           | 99.20%                  |
+
 
 - Training loss consistently decreased across epochs.  
 - Validation accuracy peaked at **99.6% (Epoch 2)**.  
