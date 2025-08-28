@@ -71,11 +71,12 @@ The model was trained for **5 epochs**.
 
 ---
 
-## 🚀 Future Work
-- Train on the **full dataset** for further robustness.  
-- Experiment with **advanced architectures** (EfficientNet, Vision Transformers).  
-- Evaluate across **other synthetic datasets** to test generalization.  
-- Deploy as a **real-time detection API**.  
+## Requirements
+- torch
+- torchvision
+- numpy
+- matplotlib
+- tqdm
 
 ---
 
